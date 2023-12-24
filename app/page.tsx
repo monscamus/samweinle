@@ -26,7 +26,7 @@ export default function Home() {
 
       <p className={`pt-6 ${staat.className}`}>
         Contact him on <Link target="_insta" href="https://www.instagram.com/sam.weinle/">Instagram <span className="text-blue-200">@sam.weinle</span></Link> or
-        see his LinkTree <Link target="_linktree" href="https://linktr.ee/weirdodotexe">LinkTree <span className="text-blue-200">here</span></Link>.
+        see his <Link target="_linktree" href="https://linktr.ee/weirdodotexe">LinkTree <span className="text-blue-200">here</span></Link>.
       </p>
       <Seo
         title="Sam Weinle"
