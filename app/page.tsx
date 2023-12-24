@@ -21,7 +21,7 @@ export default function Home() {
       </p>
 
       <p className={`pt-6 ${staat.className}`}>
-        If you need help assembling, rough cutting, colour grading or getting to the final cut, Sam can help.
+        If you need help assembling, rough cutting, colour grading or getting to the final cut - Sam can help.
       </p>
 
       <p className={`pt-6 ${staat.className}`}>
